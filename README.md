@@ -15,7 +15,7 @@ This project employs several defensive JavaScript techniques to mitigate common 
 ```
 /views
     ├── README.MD       # Project documentation
-    ├── [Other files]   # Add descriptions for other files as needed
+    ├── [Other files]   
 ```
 
 ## Features
@@ -50,7 +50,7 @@ npm install eslint --save-dev
 To lint your JavaScript files, run:
 
 ```bash
-eslint .
+eslint --init
 ```
 
 ### Using Nodemon
@@ -64,7 +64,7 @@ npm install nodemon --save-dev
 To start your application with Nodemon, use the following command:
 
 ```bash
-nodemon your-server-file.js
+nodemon app
 ```
 
 ## Contributing
