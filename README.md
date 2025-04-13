@@ -69,7 +69,7 @@ nodemon app
 
 ## Contributing
 
-Contributions are welcome! Please follow the [contribution guidelines](../CONTRIBUTING.md).
+Contributions are welcome! Feel free to create a pull request and await approval!
 
 ## License
 
@@ -77,4 +77,4 @@ This project is licensed under the [MIT License](../LICENSE).
 
 ## Contact
 
-For questions or support, please contact the project maintainers.
+For questions or support, please contact me at ethanbalgobincoding@hotmail.com !
